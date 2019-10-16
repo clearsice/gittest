@@ -1,0 +1,2 @@
+git diff顾名思义就是查看difference，显示的格式正是Unix通用的diff格式，
+知道了对readme2.txt作了什么修改后，再把它提交到仓库就放心多了，提交修改和提交新文件是一样的两步，第一步是git add，第二步是git commit：
